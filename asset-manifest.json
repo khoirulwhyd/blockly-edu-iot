@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/blockly-edu-iot/static/css/main.7a74b7d1.chunk.css",
+    "main.js": "/blockly-edu-iot/static/js/main.beb74257.chunk.js",
+    "main.js.map": "/blockly-edu-iot/static/js/main.beb74257.chunk.js.map",
+    "runtime-main.js": "/blockly-edu-iot/static/js/runtime-main.8536da10.js",
+    "runtime-main.js.map": "/blockly-edu-iot/static/js/runtime-main.8536da10.js.map",
+    "static/css/2.9fae3196.chunk.css": "/blockly-edu-iot/static/css/2.9fae3196.chunk.css",
+    "static/js/2.4f48e51e.chunk.js": "/blockly-edu-iot/static/js/2.4f48e51e.chunk.js",
+    "static/js/2.4f48e51e.chunk.js.map": "/blockly-edu-iot/static/js/2.4f48e51e.chunk.js.map",
+    "static/js/3.8480eb04.chunk.js": "/blockly-edu-iot/static/js/3.8480eb04.chunk.js",
+    "static/js/3.8480eb04.chunk.js.map": "/blockly-edu-iot/static/js/3.8480eb04.chunk.js.map",
+    "index.html": "/blockly-edu-iot/index.html",
+    "static/css/2.9fae3196.chunk.css.map": "/blockly-edu-iot/static/css/2.9fae3196.chunk.css.map",
+    "static/css/main.7a74b7d1.chunk.css.map": "/blockly-edu-iot/static/css/main.7a74b7d1.chunk.css.map",
+    "static/js/2.4f48e51e.chunk.js.LICENSE.txt": "/blockly-edu-iot/static/js/2.4f48e51e.chunk.js.LICENSE.txt",
+    "static/media/IoT Smart Board-01.08ed2f75.jpg": "/blockly-edu-iot/static/media/IoT Smart Board-01.08ed2f75.jpg",
+    "static/media/IoT Smart Board-02.484d1207.jpg": "/blockly-edu-iot/static/media/IoT Smart Board-02.484d1207.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8536da10.js",
+    "static/css/2.9fae3196.chunk.css",
+    "static/js/2.4f48e51e.chunk.js",
+    "static/css/main.7a74b7d1.chunk.css",
+    "static/js/main.beb74257.chunk.js"
+  ]
+}
